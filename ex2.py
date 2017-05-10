@@ -14,4 +14,4 @@ elif option == "2":
 	option2()
 
 else:
-	print "Invalid input"
+	print "Oops Invalid input"
